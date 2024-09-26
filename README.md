@@ -31,13 +31,14 @@ This **Birthday Wish App** is an interactive birthday celebration built with **N
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/birthday-wish-app.git
+   git clone https://github.com/Sheikh-Muhammad-Mujtaba/birthday-wish_app.git
    ```
 
 2. **Install dependencies**:
 
    ```bash
    cd birthday-wish-app
+   
    npm install
    ```
 
